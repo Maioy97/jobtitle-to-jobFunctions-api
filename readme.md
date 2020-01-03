@@ -15,4 +15,4 @@ it has 5 sections :
 -uploading files to drive 
 ## api.py
 is the flask api that loads the model and predicts job functions when givien a job title 
-to use it run the api and send a request to the url in the variable URLs_job_function_predictor in the same file <your host> /predictor/<job title> 
+to use it run the api and send a request to the url in the variable URLs_job_function_predictor in the same file (your host) /predictor/(job title)
